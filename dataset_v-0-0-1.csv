@@ -1,0 +1,134 @@
+input,responses,tag
+hello,hello buddy,greeting
+hello,hello main ky kr skta hu,greeting
+hello,bol na ky kaam h,greeting
+hello,ram ram,greeting
+hello,kaam kr apna,greeting
+hello,m nhi btaunga,greeting
+hi,hello buddy,greeting
+hi,hello main ky kr skta hu,greeting
+hi,bol na ky kaam h,greeting
+hi,ram ram,greeting
+hi,kaam kr apna,greeting
+hi,m nhi btaunga,greeting
+hi there,hello buddy,greeting
+hi there,hello main ky kr skta hu,greeting
+hi there,bol na ky kaam h,greeting
+hi there,ram ram,greeting
+hi there,kaam kr apna,greeting
+hi there,m nhi btaunga,greeting
+hey,hello buddy,greeting
+hey,hello main ky kr skta hu,greeting
+hey,bol na ky kaam h,greeting
+hey,ram ram,greeting
+hey,kaam kr apna,greeting
+hey,m nhi btaunga,greeting
+hey buddy,hello buddy,greeting
+hey buddy,hello main ky kr skta hu,greeting
+hey buddy,bol na ky kaam h,greeting
+hey buddy,ram ram,greeting
+hey buddy,kaam kr apna,greeting
+hey buddy,m nhi btaunga,greeting
+namaste,hello buddy,greeting
+namaste,hello main ky kr skta hu,greeting
+namaste,bol na ky kaam h,greeting
+namaste,ram ram,greeting
+namaste,kaam kr apna,greeting
+namaste,m nhi btaunga,greeting
+bsdk,hello buddy,greeting
+bsdk,hello main ky kr skta hu,greeting
+bsdk,bol na ky kaam h,greeting
+bsdk,ram ram,greeting
+bsdk,kaam kr apna,greeting
+bsdk,m nhi btaunga,greeting
+ram ram,hello buddy,greeting
+ram ram,hello main ky kr skta hu,greeting
+ram ram,bol na ky kaam h,greeting
+ram ram,ram ram,greeting
+ram ram,kaam kr apna,greeting
+ram ram,m nhi btaunga,greeting
+Thanks,"Okay, bye",goodbye
+Thanks,haan haan jaa rha,goodbye
+Thanks,Goodbye,goodbye
+Thanks,Adios,goodbye
+Thanks,see you later,goodbye
+Thanks,Take care,goodbye
+Thanks,nice to help you!! bye,goodbye
+thank you,"Okay, bye",goodbye
+thank you,haan haan jaa rha,goodbye
+thank you,Goodbye,goodbye
+thank you,Adios,goodbye
+thank you,see you later,goodbye
+thank you,Take care,goodbye
+thank you,nice to help you!! bye,goodbye
+Thanks for help,"Okay, bye",goodbye
+Thanks for help,haan haan jaa rha,goodbye
+Thanks for help,Goodbye,goodbye
+Thanks for help,Adios,goodbye
+Thanks for help,see you later,goodbye
+Thanks for help,Take care,goodbye
+Thanks for help,nice to help you!! bye,goodbye
+bye,"Okay, bye",goodbye
+bye,haan haan jaa rha,goodbye
+bye,Goodbye,goodbye
+bye,Adios,goodbye
+bye,see you later,goodbye
+bye,Take care,goodbye
+bye,nice to help you!! bye,goodbye
+bye bye,"Okay, bye",goodbye
+bye bye,haan haan jaa rha,goodbye
+bye bye,Goodbye,goodbye
+bye bye,Adios,goodbye
+bye bye,see you later,goodbye
+bye bye,Take care,goodbye
+bye bye,nice to help you!! bye,goodbye
+chla jaa bsdk,"Okay, bye",goodbye
+chla jaa bsdk,haan haan jaa rha,goodbye
+chla jaa bsdk,Goodbye,goodbye
+chla jaa bsdk,Adios,goodbye
+chla jaa bsdk,see you later,goodbye
+chla jaa bsdk,Take care,goodbye
+chla jaa bsdk,nice to help you!! bye,goodbye
+do a conversion,bol na konsi currency m krna h,intents
+do a conversion,yes tell me,intents
+who are you ?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+who are you ?,Going Merry at your service,whoareyou
+who are you ?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+who are you ?,You can call me Masiha and I am here to Help you,whoareyou
+who are you ?,Tera baap!!,whoareyou
+what are you ?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+what are you ?,Going Merry at your service,whoareyou
+what are you ?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+what are you ?,You can call me Masiha and I am here to Help you,whoareyou
+what are you ?,Tera baap!!,whoareyou
+what is your name?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+what is your name?,Going Merry at your service,whoareyou
+what is your name?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+what is your name?,You can call me Masiha and I am here to Help you,whoareyou
+what is your name?,Tera baap!!,whoareyou
+are you a chatbot ?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+are you a chatbot ?,Going Merry at your service,whoareyou
+are you a chatbot ?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+are you a chatbot ?,You can call me Masiha and I am here to Help you,whoareyou
+are you a chatbot ?,Tera baap!!,whoareyou
+what can I call you ?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+what can I call you ?,Going Merry at your service,whoareyou
+what can I call you ?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+what can I call you ?,You can call me Masiha and I am here to Help you,whoareyou
+what can I call you ?,Tera baap!!,whoareyou
+your name ?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+your name ?,Going Merry at your service,whoareyou
+your name ?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+your name ?,You can call me Masiha and I am here to Help you,whoareyou
+your name ?,Tera baap!!,whoareyou
+are you a bot ?,"I am a The Great Pirate Bot, you can call me Masiha",whoareyou
+are you a bot ?,Going Merry at your service,whoareyou
+are you a bot ?,"My name is Masiha and yes, I am the G.0.A.T",whoareyou
+are you a bot ?,You can call me Masiha and I am here to Help you,whoareyou
+are you a bot ?,Tera baap!!,whoareyou
+convert d sdd to dsds,here is the required conversion,convert
+convert d sdd to dsds,the converted value is,convert
+convert a dfdf to jghk,here is the required conversion,convert
+convert a dfdf to jghk,the converted value is,convert
+a ads to sddds,here is the required conversion,convert
+a ads to sddds,the converted value is,convert
